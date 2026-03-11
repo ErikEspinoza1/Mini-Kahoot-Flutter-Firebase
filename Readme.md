@@ -21,7 +21,7 @@ El sistema demuestra la implementación de comunicación bidireccional y reactiv
 * **Base de Datos:** Cloud Firestore (Región: Europe-West)
 * **Autenticación:** Firebase Anonymous Authentication
 
-## 📁 Estructura del Repositorio (Monorepo)
+## 📁 Estructura del Repositorio
 * `/mini_kahoot_teacher`: Contiene el código fuente de la aplicación del profesor.
 * `/mini_kahoot_client`: Contiene el código fuente de la aplicación del alumno.
 * `Configuración de Firebase y Conexión con Flutter.pdf`: Documentación técnica detallada y capturas del desarrollo.
