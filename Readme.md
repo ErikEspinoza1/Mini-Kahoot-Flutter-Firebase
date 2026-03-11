@@ -8,7 +8,7 @@ El sistema demuestra la implementación de comunicación bidireccional y reactiv
 1. **Teacher App (Servidor/Host):** Aplicación web/escritorio para crear la sala, gestionar el estado del juego, añadir preguntas personalizadas y actuar como "cronómetro central" (Autoplay).
 2. **Student App (Cliente/Mando):** Aplicación móvil que permite a los alumnos unirse mediante un PIN, recibir feedback visual de sus respuestas y acumular puntos.
 
-## ✨ Características Principales (Mejoras Avanzadas)
+## ✨ Características Principales
 * **Sincronización en Tiempo Real:** Uso de `StreamBuilders` y Firebase Firestore para actualizar las interfaces sin recargar la pantalla.
 * **Automatización de Flujo (Autoplay):** El servidor controla las fases del juego automáticamente mediante `TweenAnimationBuilder`, saltando de la pregunta a la respuesta y a la siguiente ronda de forma autónoma.
 * **Sistema de Puntuación Dinámica:** Algoritmo que premia la velocidad de respuesta, otorgando hasta 1000 puntos al alumno más rápido.
