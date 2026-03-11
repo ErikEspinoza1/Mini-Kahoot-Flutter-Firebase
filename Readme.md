@@ -34,16 +34,17 @@ El sistema demuestra la implementación de comunicación bidireccional y reactiv
 4. En cada terminal, ejecuta el comando para descargar las dependencias:
    ```bash
    flutter pub get
-Ejecuta la aplicación del profesor (recomendado en web/Chrome):
+   
+5. Ejecuta la aplicación del profesor (recomendado en web/Chrome):
 
-Bash
-cd mini_kahoot_teacher
-flutter run
-Ejecuta la aplicación del alumno (recomendado en Emulador Android/iOS):
+   ```bash
+   cd mini_kahoot_teacher
+   flutter run
+6. Ejecuta la aplicación del alumno (recomendado en Emulador Android/iOS):
 
-Bash
-cd mini_kahoot_client
-flutter run
+   ```bash
+   cd mini_kahoot_client
+   flutter run
 📺 Demostración en Vídeo
 Para entender la arquitectura y ver el proyecto en funcionamiento, revisa el siguiente vídeo demostrativo donde se explica el código y se muestra la ejecución de las dos aplicaciones en tiempo real:
 
