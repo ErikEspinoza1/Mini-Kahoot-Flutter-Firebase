@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "819053778557",
+    "firebase_url": "https://mini-kahoot-5dd3c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mini-kahoot-5dd3c",
+    "storage_bucket": "mini-kahoot-5dd3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819053778557:android:a17c3ec0f06165bc898314",
+        "android_client_info": {
+          "package_name": "com.example.mini_kahoot_teacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8-c4O7k_QVRfKiRFpDega6DK_DZEzr9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
