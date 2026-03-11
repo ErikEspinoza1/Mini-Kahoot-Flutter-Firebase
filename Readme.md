@@ -24,7 +24,7 @@ El sistema demuestra la implementación de comunicación bidireccional y reactiv
 ## 📁 Estructura del Repositorio (Monorepo)
 * `/mini_kahoot_teacher`: Contiene el código fuente de la aplicación del profesor.
 * `/mini_kahoot_client`: Contiene el código fuente de la aplicación del alumno.
-* `Memoria_MiniKahoot.pdf`: Documentación técnica detallada y capturas del desarrollo.
+* `Configuración de Firebase y Conexión con Flutter.pdf`: Documentación técnica detallada y capturas del desarrollo.
 
 ## ▶️ Cómo ejecutar el proyecto localmente
 
@@ -38,7 +38,7 @@ Ejecuta la aplicación del profesor (recomendado en web/Chrome):
 
 Bash
 cd mini_kahoot_teacher
-flutter run -d chrome
+flutter run
 Ejecuta la aplicación del alumno (recomendado en Emulador Android/iOS):
 
 Bash
@@ -48,5 +48,3 @@ flutter run
 Para entender la arquitectura y ver el proyecto en funcionamiento, revisa el siguiente vídeo demostrativo donde se explica el código y se muestra la ejecución de las dos aplicaciones en tiempo real:
 
 🔗 Vídeo Demostrativo y Explicación del Proyecto
-
-g
