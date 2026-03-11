@@ -47,4 +47,4 @@ flutter run
 📺 Demostración en Vídeo
 Para entender la arquitectura y ver el proyecto en funcionamiento, revisa el siguiente vídeo demostrativo donde se explica el código y se muestra la ejecución de las dos aplicaciones en tiempo real:
 
-🔗 Vídeo Demostrativo y Explicación del Proyecto
+🔗 [Vídeo Demostrativo y Explicación del Proyecto](https://youtu.be/4M3swnHf4nk)
